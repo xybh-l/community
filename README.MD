@@ -22,6 +22,10 @@
 
 [isual Paradigm](https://www.visual-paradigm.com)
 
+[Flyway](https://flywaydb.org/getstarted/friststep/maven)
+
+[Lombok](https://www.projectlombok.org/)
+
 ## 脚本
 
 ```sql
