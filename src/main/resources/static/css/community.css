@@ -30,3 +30,15 @@ body {
     font-weight: normal;
     color: #999;
 }
+.top_middle{
+    max-width: 1500px !important;
+}
+/*.middle{*/
+/*    margin:0 15px;*/
+/*    background-color: #fff;*/
+/*    boder:1px solid #e6e6e6;*/
+/*    border-radius: 4px;*/
+/*}*/
+textarea{
+    resize: none;
+}
